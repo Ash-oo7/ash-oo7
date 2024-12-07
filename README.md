@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ash_693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash_693" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amit jambhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit jambhale" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amit-jambhale-851842271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit jambhale" height="30" width="40" /></a>
 <a href="https://instagram.com/amit.jambhale.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit.jambhale.07" height="30" width="40" /></a>
 </p>
 
