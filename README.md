@@ -6,8 +6,7 @@
   align="right" 
   alt="coding" 
   width="400" 
-  src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" 
->
+  src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-oo7&label=Profile%20views&color=0e75b6&style=flat" alt="ash-oo7" /> </p>
 
