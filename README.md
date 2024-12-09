@@ -1,12 +1,12 @@
 [![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM3NTQzODUsIm5iZiI6MTczMzc1NDA4NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA5VDE0MjEyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZkNDU3NWFkYTYzYmQyZmVjMzJmZjYyNGViNmE2OGY3Zjk4YjFlNjlkOGYyZDlhYTVkZWYwZDE4ZjhkYTUxZWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.xrlJF9kBZ1CojlfZxU7RR2chy8XooiT6swFbRkIUo1o)](https://github.com/Ash-oo7)
 
 <h1 align="center">Hi 👋, I'm Amit Jambhale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img 
   align="right" 
   alt="coding" 
   width="400" 
-  src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM2MDI3MzYsIm5iZiI6MTczMzYwMjQzNiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjA3VDIwMTM1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2ZTlmYjA3MGJmMzk4MDE0YTIyZTFlMzE5MDBmODFmNGFiNzVkYjFlMzVhZmM5MjU1ZWI2ZTZlYjQyOGIwMWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.DVyFiKgmxEeGkK5OPyRrlgwUJ6PSG4MVYxG_DA1nw5E" 
+  src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" 
 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ash-oo7&label=Profile%20views&color=0e75b6&style=flat" alt="ash-oo7" /> </p>
